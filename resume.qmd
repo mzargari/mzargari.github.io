@@ -1,5 +1,0 @@
----
-editor: visual
----
-
-![](resume.pdf){width="100%"}

@@ -5,15 +5,17 @@ project:
 website:
   title: "Michael Zargari"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: resume.qmd
         text: Resume
+      - href: fav_repos_and_sites.qmd
+        text: Repositories and Websites
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 

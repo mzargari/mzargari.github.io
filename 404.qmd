@@ -1,0 +1,21 @@
+---
+title: "Page Not Found"
+format:
+  html:
+    page-layout: full
+website:
+  sidebar: false
+---
+
+```{=html}
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+```
+
+## Hey, it seems like you entered a page that cannot be found (perhaps it was moved or renamed).
+
+## Check to see that the link is typed in correctly.
+
+
+### If you have any questions, feel free to email me at <a href="mailto:mzargari@bren.ucsb.edu" target="_blank"> mzargari\@bren.ucsb.edu</a> I may be able to help you look for what you were looking for.
+
+# Thank you for visiting my website.
