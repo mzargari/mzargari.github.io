@@ -1,4 +1,52 @@
 ---
 title: "Education"
+format:
+  html:
+    page-layout: full
 ---
 
+<br>
+
+![](images/logo-bren.svg){fig-align="left" width="465"}
+
+::: {.thick style="font-weight: bold; color: black;"}
+**Master of Data Science (M.D.S) in Environmental Data Science**
+:::
+
+4.0 GPA, Class of 2023
+
+[Awards]{.underline}: Promise Fellowship
+
+[Highlighted Coursework]{.underline}: Databases & Data Management, Machine Learning, Geospatial Analysis & Remote Sensing, Data Visualization & Communication (Completed by June 2023)
+
+Bren School of Environmental Science & Management -- University of California, Santa Barbara (UCSB)
+
+<br>
+
+![](images/ucsb_logo.webp){fig-align="left" width="192"}
+
+::: {.thick style="font-weight: bold; color: black;"}
+**Bachelor of Science (B.S.) in Statistics and Data Science**
+
+**Bachelor of Arts (B.A) in Economics**
+
+**Minor in Translation Studies** \| **Minor in Iranian Studies**
+:::
+
+Honors Distinction, 3.69 GPA, Class of 2022
+
+[Awards]{.underline}: Judith Stapelmann Scholar (2018-2022) \| Jeremy D. Friedman Honorary Memorial Award (2022)
+
+University of California, Santa Barbara (UCSB)
+
+<br>
+
+![](images/edinburgh_logo.png){fig-align="left" width="401"}
+
+::: {.thick style="font-weight: bold;"}
+Study Abroad (2021)
+:::
+
+[Highlighted Coursework]{.underline}: Data Science in Ecology and Environmental Science
+
+University of Edinburgh, Scotland

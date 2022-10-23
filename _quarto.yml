@@ -10,7 +10,7 @@ website:
       - href: education.qmd
         text: Education
       - href: experience.qmd
-        text: Work Experience
+        text: Experience
       - href: volunteer_leadership.qmd
         text: Volunteering and School Leadership
       - href: https://eddatascienceees.github.io/tutorial-mzargari/

@@ -1,0 +1,68 @@
+---
+title: "Experience"
+format:
+  html:
+    page-layout: full
+---
+
+<br>
+
+<!-- ![](images/AIG_logo.png){fig-align="left" width="262"} -->
+
+<img src="images/AIG_logo.png" fig-align="left" width="262" align="right"/> <br>
+
+::: {.thick style="font-weight: bold; color: black;"}
+Underwriting Intern - American International Group (AIG)
+:::
+
+San Francisco, CA
+
+June 2022 - July 2022
+
+<br>
+
+<img src="images/budget_logo.png" fig-align="left" width="350" align="right"/>
+
+::: {.thick style="font-weight: bold; color: black;"}
+Data Analyst Intern -- UCSB Office of Budget and Planning
+:::
+
+Santa Barbara, CA (Remote)
+
+June 2021 - August 2021
+
+<br>
+
+<img src="images/econ_logo.png" fig-align="left" width="350" align="right"/>
+
+::: {.thick style="font-weight: bold; color: black;"}
+Mental Health Data Researcher -- UCSB Department of Economics
+:::
+
+Santa Barbara, CA (Remote)
+
+June 2021 - September 2021
+
+<br>
+
+<img src="images/AS_logo.png" fig-align="left" width="350" align="right"/>
+
+::: {.thick style="font-weight: bold; color: black;"}
+Senior Business Analyst -- UCSB A.S. Office of the Controller
+:::
+
+Santa Barbara, CA
+
+July 2020 - June 2022
+
+<br>
+
+<img src="images/lyft_logo.png" fig-align="left" width="200" align="right"/>
+
+::: {.thick style="font-weight: bold; color: black;"}
+Actuarial Intern -- Lyft, Inc., Risk Solutions Reserving Team
+:::
+
+San Francisco, CA (Remote)
+
+June 2020 - August 2020
