@@ -1,6 +1,6 @@
 ---
 title: "Michael Zargari"
-image: michael.JPG
+image: images/michael.JPG
 about: 
   template: trestles
   image-shape: rounded

@@ -4,18 +4,23 @@ project:
 
 website:
   title: "Michael Zargari"
+  favicon: images/logo.png
   navbar:
     right:
-      - href: index.qmd
-        text: Home
-      - href: resume.qmd
-        text: Resume
-      - href: fav_repos_and_sites.qmd
-        text: Repositories and Websites
+      - href: education.qmd
+        text: Education
+      - href: experience.qmd
+        text: Work Experience
+      - href: volunteer_leadership.qmd
+        text: Volunteering and School Leadership
+      - href: https://eddatascienceees.github.io/tutorial-mzargari/
+        text: SQL Tutorial
 
 format:
   html:
-    theme: lux
+    theme: 
+      dark: lux
+      light: flatly
     css: styles.css
     toc: true
 

@@ -1,21 +1,35 @@
 ---
-title: "Page Not Found"
+title: <center> Page Not Found <center>
 format:
   html:
     page-layout: full
-website:
-  sidebar: false
 ---
+<style>
 
-```{=html}
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
-```
+.content {
+  max-width: 1000px;
+  margin: auto;
+  padding: 10px;
+}
+</style>
 
-## Hey, it seems like you entered a page that cannot be found (perhaps it was moved or renamed).
+<center>
 
-## Check to see that the link is typed in correctly.
+Hey, it seems like you entered a page that cannot be found (perhaps it was moved or renamed).
 
+If you have any questions, feel free to email me at <a href="mailto:mzargari@bren.ucsb.edu" target="_blank"> mzargari\@bren.ucsb.edu</a>. I may be able to help you look for what you were looking for.
 
-### If you have any questions, feel free to email me at <a href="mailto:mzargari@bren.ucsb.edu" target="_blank"> mzargari\@bren.ucsb.edu</a> I may be able to help you look for what you were looking for.
+Thank you for visiting my website.
 
-# Thank you for visiting my website.
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+<img src="logos/mz_logo.png" alt="Avatar" style="width:21.5em">
+
+</body>
+<center>
