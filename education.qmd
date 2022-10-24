@@ -15,9 +15,10 @@ format:
 
 4.0 GPA, Class of 2023
 
-[Awards]{.underline}: Promise Fellowship
+Awards: <a href="https://www.news.ucsb.edu/2022/020650/lot-promise" target="_blank"> Promise Fellowship</a>
 
-[Highlighted Coursework]{.underline}: Databases & Data Management, Machine Learning, Geospatial Analysis & Remote Sensing, Data Visualization & Communication (Completed by June 2023)
+<a href="https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds/meds-courses
+" target="_blank"> Highlighted Coursework</a>: Databases & Data Management, Machine Learning, Geospatial Analysis & Remote Sensing, Data Visualization & Communication (Completed by June 2023)
 
 Bren School of Environmental Science & Management -- University of California, Santa Barbara (UCSB)
 
@@ -35,7 +36,7 @@ Bren School of Environmental Science & Management -- University of California, S
 
 Honors Distinction, 3.69 GPA, Class of 2022
 
-[Awards]{.underline}: Judith Stapelmann Scholar (2018-2022) \| Jeremy D. Friedman Honorary Memorial Award (2022)
+Awards: <a href="https://promisescholars.sa.ucsb.edu/about" target="_blank"> Judith Stapelmann Scholar</a> (2018-2022) \| <a href="https://www.news.ucsb.edu/2022/020651/going-out-top" target="_blank"> Jeremy D. Friedman Honorary Memorial Award</a> (2022)
 
 University of California, Santa Barbara (UCSB)
 
@@ -47,6 +48,6 @@ University of California, Santa Barbara (UCSB)
 Study Abroad (2021)
 :::
 
-[Highlighted Coursework]{.underline}: Data Science in Ecology and Environmental Science
+<a href="https://ourcodingclub.github.io/course.html"> Highlighted Coursework</a>: Data Science in Ecology and Environmental Science
 
 University of Edinburgh, Scotland
