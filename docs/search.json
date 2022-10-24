@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "blogs/October 24 blog from class/index.html",
+    "href": "blogs/October 24 blog from class/index.html",
+    "title": "Blog post title",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{zargari2022,\n  author = {Michael Zargari},\n  title = {Blog Post Title},\n  date = {2022-10-24},\n  url = {https://mzargari.github.io/blogs/October-24-blog-from-class/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMichael Zargari. 2022. “Blog Post Title.” October 24, 2022.\nhttps://mzargari.github.io/blogs/October-24-blog-from-class/."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Michael Zargari",
@@ -18,7 +25,7 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "Master of Data Science (M.D.S) in Environmental Data Science\n\n4.0 GPA, Class of 2023\nAwards:  Promise Fellowship\n Highlighted Coursework: Databases & Data Management, Machine Learning, Geospatial Analysis & Remote Sensing, Data Visualization & Communication (Completed by June 2023)\nBren School of Environmental Science & Management – University of California, Santa Barbara (UCSB)\n\n\n\n\n\n\n\nBachelor of Science (B.S.) in Statistics and Data Science\nBachelor of Arts (B.A) in Economics\nMinor in Translation Studies | Minor in Iranian Studies\n\nHonors Distinction, 3.69 GPA, Class of 2022\nAwards:  Judith Stapelmann Scholar (2018-2022) |  Jeremy D. Friedman Honorary Memorial Award (2022)\nUniversity of California, Santa Barbara (UCSB)\n\n\n\n\n\n\n\nStudy Abroad (2021)\n\n Highlighted Coursework: Data Science in Ecology and Environmental Science\nUniversity of Edinburgh, Scotland"
+    "text": "Master of Environmental Data Science\n\n4.0 GPA, Class of 2023\nAwards:  Promise Fellowship\n Highlighted Coursework: Databases & Data Management, Machine Learning, Geospatial Analysis & Remote Sensing, Data Visualization & Communication (Completed by June 2023)\nBren School of Environmental Science & Management – University of California, Santa Barbara (UCSB)\n\n\n\n\n\n\n\nBachelor of Science (B.S.) in Statistics and Data Science\nBachelor of Arts (B.A) in Economics\nMinor in Translation Studies | Minor in Iranian Studies\n\nHonors Distinction, 3.69 GPA, Class of 2022\nAwards:  Judith Stapelmann Scholar (2018-2022) |  Jeremy D. Friedman Honorary Memorial Award (2022)\nUniversity of California, Santa Barbara (UCSB)\n\n\n\n\n\n\n\nStudy Abroad (2021)\n\n Highlighted Coursework: Data Science in Ecology and Environmental Science\nUniversity of Edinburgh, Scotland"
   },
   {
     "objectID": "volunteer_leadership.html",
@@ -33,5 +40,12 @@
     "title": "Michael Zargari",
     "section": "Volunteering",
     "text": "Volunteering\n\n\n Jewish Languages Project\n\nJanuary 2022 - Present"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "MEDS\n\n\ntest\n\n\nR\n\n\n\nThis is a description\n\n\n\nMichael Zargari\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

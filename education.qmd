@@ -10,7 +10,7 @@ format:
 ![](images/logo-bren.svg){fig-align="left" width="465"}
 
 ::: {.thick style="font-weight: bold; color: black;"}
-**Master of Data Science (M.D.S) in Environmental Data Science**
+**Master of Environmental Data Science**
 :::
 
 4.0 GPA, Class of 2023
