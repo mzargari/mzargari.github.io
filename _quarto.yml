@@ -7,12 +7,14 @@ website:
   favicon: images/logo.png
   navbar:
     right:
+      - href: index.qmd
+        text: Home
       - href: education.qmd
         text: Education
       - href: experience.qmd
         text: Experience
       - href: volunteer_leadership.qmd
-        text: School Leadership and Volunteering
+        text: School Leadership & Volunteering
       - href: https://eddatascienceees.github.io/tutorial-mzargari/
         text: SQL Tutorial
    #   - href: posts.qmd
@@ -25,6 +27,4 @@ format:
       light: flatly
     css: styles.css
     toc: true
-
-editor: visual
 
