@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Michael Zargari</title>
+<title>Michael Zargari - My Page Title Where all my blogs live</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,9 +26,12 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/logo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -53,7 +56,37 @@ ul.task-list{list-style: none;}
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -73,7 +106,7 @@ ul.task-list{list-style: none;}
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
+    <a class="nav-link" href="./index.html">Home</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./education.html">Education</a>
@@ -88,7 +121,7 @@ ul.task-list{list-style: none;}
     <a class="nav-link" href="https://eddatascienceees.github.io/tutorial-mzargari/">SQL Tutorial</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./post_listing_page.html">Blog</a>
+    <a class="nav-link active" href="./post_listing_page.html" aria-current="page">Blog</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -97,57 +130,67 @@ ul.task-list{list-style: none;}
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="images/michael.jpg" class="about-image
-  rounded " style="width: 16em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Michael Zargari</h1>
+<h1 class="title">My Page Title Where all my blogs live</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+    
   </div>
+  
+
 </header>
-    <div class="about-links">
-  <a href="https://www.linkedin.com/in/michaelzargari/" class="about-link">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/mzargari" class="about-link">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="mailto:mzargari@bren.ucsb.edu" class="about-link">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<div id="hero-heading">
-<section id="hello" class="level3">
-<h3 data-anchor-id="hello">Hello!</h3>
-<p>My name is Michael Zargari. Welcome to my website! Feel free to browse around.</p>
-<section id="about-me" class="level4">
-<h4 data-anchor-id="about-me">About Me:</h4>
-<p>I am a <a href="https://bren.ucsb.edu/masters-programs/master-environmental-data-science" target="_blank"> Master of Environmental Data Science</a> student at the <a href="https://bren.ucsb.edu/" target="_blank"> Bren School of Environmental Science &amp; Management</a> at the University of California-Santa Barbara (UCSB). I graduated from UCSB in 2022 with a B.S. in Statistics and Data Science, B.A. in Economics, and minors in Iranian Studies and Translation Studies. I started my academic career in 2018 as a Judith Stapelmann Scholar and was awarded the Jeremy D. Friedman Memorial Award in June 2022 for my avid involvement on campus.</p>
-<p>In my free time, I like contributing to campus projects and participating on various student committees. My latest passion is researching ancient Judeo-Persian Languages, a project that has led to very interesting theories and newly discovered concepts.</p>
-<p>On the data side, I have a wide range of experience using R, Python, and SQL. I have completed internships at globally recognized companies AIG and Lyft, as well as on-campus research at UCSB where I have worked as a data analyst, data scientist, statistical researcher, underwriter, and actuary.</p>
-<p>As data science is a largely applicable skill-set, I am eager to apply my acquired knowledge and skills to a spectrum of real world applications to analyze data, create accurate models, assess risk, and influence climate and environmental policy, among other initiatives.</p>
-<hr>
-</section>
-</section>
-</div>
 
 
-</main></div>
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Quarto,R,MEDS" data-listing-date-sort="1666594800000" data-listing-file-modified-sort="1667242776843" data-listing-reading-time-sort="0.01">
+<a href="./posts/2022-10-31_Each_Folder_Is_One_Post/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/2022-10-31_Each_Folder_Is_One_Post/preview_image.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+blog post title
+</h5>
+<div class="card-text listing-description">
+blog post description (appears underneath the title in smaller text) which is included on the listing page
 </div>
- <!-- /main -->
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Samantha Csik
+</div>
+<div class="listing-date">
+Oct 24, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -168,6 +211,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

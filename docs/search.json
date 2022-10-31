@@ -47,5 +47,19 @@
     "title": "Michael Zargari",
     "section": "Volunteering",
     "text": "Volunteering\n\n\n Jewish Languages Project\n\nJanuary 2022 - Present"
+  },
+  {
+    "objectID": "post_listing_page.html",
+    "href": "post_listing_page.html",
+    "title": "My Page Title Where all my blogs live",
+    "section": "",
+    "text": "blog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2022-10-31_Each_Folder_Is_One_Post/index.html",
+    "href": "posts/2022-10-31_Each_Folder_Is_One_Post/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{csik2022,\n  author = {Samantha Csik},\n  title = {Blog Post Title},\n  date = {10/24/2022},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nSamantha Csik. 10AD–24AD. “Blog Post Title.” 10AD–24AD. https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/."
   }
 ]

@@ -17,8 +17,8 @@ website:
         text: School Leadership & Volunteering
       - href: https://eddatascienceees.github.io/tutorial-mzargari/
         text: SQL Tutorial
-   #   - href: posts.qmd
-    #    text: Blog
+      - href: post_listing_page.qmd # This is the same name as the file where our post listing page is
+        text: Blog
 
 format:
   html:

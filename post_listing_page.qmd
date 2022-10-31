@@ -1,0 +1,6 @@
+---
+title: "My Page Title Where all my blogs live"
+listing:
+  contents: posts # This needs to match the name of the posts folder
+  type: grid
+---
