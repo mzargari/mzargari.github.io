@@ -5,6 +5,10 @@ format:
     page-layout: full
 ---
 
+On the data side, I have a wide range of experience using R, Python, and SQL. I have completed internships at globally recognized companies AIG and Lyft, as well as on-campus research at UCSB where I have worked as a data analyst, data scientist, statistical researcher, underwriter, and actuary.
+
+------------------------------------------------------------------------
+
 <br>
 
 <!-- ![](images/AIG_logo.png){fig-align="left" width="262"} -->

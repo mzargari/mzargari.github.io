@@ -25,15 +25,7 @@ format:
 
 My name is Michael Zargari. Welcome to my website! Feel free to browse around.
 
-#### About Me:
+#### Goals:
 
-I am a <a href="https://bren.ucsb.edu/masters-programs/master-environmental-data-science" target="_blank"> Master of Environmental Data Science</a> student at the <a href="https://bren.ucsb.edu/" target="_blank"> Bren School of Environmental Science & Management</a> at the University of California-Santa Barbara (UCSB). I graduated from UCSB in 2022 with a B.S. in Statistics and Data Science, B.A. in Economics, and minors in Iranian Studies and Translation Studies. I started my academic career in 2018 as a Judith Stapelmann Scholar and was awarded the Jeremy D. Friedman Memorial Award in June 2022 for my avid involvement on campus.
-
-In my free time, I like contributing to campus projects and participating on various student committees. My latest passion is researching ancient Judeo-Persian Languages, a project that has led to very interesting theories and newly discovered concepts.
-
-On the data side, I have a wide range of experience using R, Python, and SQL. I have completed internships at globally recognized companies AIG and Lyft, as well as on-campus research at UCSB where I have worked as a data analyst, data scientist, statistical researcher, underwriter, and actuary.
-
-As data science is a largely applicable skill-set, I am eager to apply my acquired knowledge and skills to a spectrum of real world applications to analyze data, create accurate models, assess risk, and influence climate and environmental policy, among other initiatives.
-
-------------------------------------------------------------------------
+I am eager to apply my acquired knowledge and skills to a spectrum of real world applications to analyze data, create accurate models, assess risk, and influence climate and environmental policy, among other initiatives.
 :::
