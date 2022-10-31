@@ -23,7 +23,7 @@ format:
 ::: {#hero-heading}
 ### Hello!
 
-My name is Michael Zargari. Welcome to my website! Feel free to browse around. You can change the theme of the website using the toggle on the top right hand corner of the navigation bar.
+My name is Michael Zargari. Welcome to my website! Feel free to browse around.
 
 #### About Me:
 

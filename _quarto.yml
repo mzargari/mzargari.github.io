@@ -22,9 +22,9 @@ website:
 
 format:
   html:
-    theme: 
-      dark: lux
-      light: flatly
+    theme: lux
+     # dark: lux
+   #   light: flatly
     css: styles.css
     toc: true
 
