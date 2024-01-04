@@ -5,15 +5,25 @@ format:
     page-layout: full
 ---
 
-On the data side, I have a wide range of experience using R, Python, and SQL. I have completed internships at globally recognized companies AIG and Lyft, as well as on-campus research at UCSB where I have worked as a data analyst, data scientist, statistical researcher, underwriter, and actuary.
+On the data side, I have a wide range of experience using Python, R, and SQL. I am currently a Quantitative Risk Analytics Associate at Wells Fargo mitigating model and corporate risk. In the past, I have completed internships at globally recognized companies AIG and Lyft, as well as on-campus research at UCSB where I have worked as a data analyst, data scientist, statistical researcher, underwriter, and actuary.
 
 ------------------------------------------------------------------------
 
 <br>
 
-<!-- ![](images/AIG_logo.png){fig-align="left" width="262"} -->
+<img src="images/wells_fargo_logo.png" fig-align="left" width="175" align="right"/> <br>
 
-<img src="images/AIG_logo.png" fig-align="left" width="262" align="right"/> <br>
+::: {.thick style="font-weight: bold; color: black;"}
+Quantitative Risk Analytics Associate - Wells Fargo
+:::
+
+Charlotte, NC
+
+July 2023 - Present
+
+<br>
+
+<img src="images/AIG_logo.png" fig-align="left" width="225" align="right"/> <br>
 
 ::: {.thick style="font-weight: bold; color: black;"}
 Underwriting Intern - American International Group (AIG)

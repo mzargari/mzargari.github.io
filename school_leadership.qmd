@@ -6,19 +6,18 @@ format:
 
 ## School Leadership
 
-In my free time, I like contributing to campus projects and participating on various student committees. My latest passion is researching ancient Judeo-Persian Languages, a project that has led to very interesting theories and newly discovered concepts.
+During my time at the University of California, Santa Barbara, I always sought to get more involved alongside my studies to give back to my campus community. This page is a brief overview of the non-data related leadership roles I had on campus.
 
 ------------------------------------------------------------------------
 
-<br>
 
 <img src="images/student_health_logo.png" fig-align="left" width="300" align="right"/>
 
 ::: {.thick style="font-weight: bold; color: black;"}
-Student Advisor to the Executive Director <br> of Student Health Services
+Student Advisor to the Executive Director of Student Health Services
 :::
 
-October 2022 - Present
+October 2022 - June 2023
 
 <br>
 
@@ -27,10 +26,10 @@ October 2022 - Present
 <img src="images/UCEN_logo.png" fig-align="left" width="300" align="right"/>
 
 ::: {.thick style="font-weight: bold; color: black;"}
-Assistant Manager
+University Center Hub <br> Assistant Manager
 :::
 
-August 2021 - Present
+August 2021 - June 2023
 
 <br>
 
@@ -39,7 +38,7 @@ August 2021 - Present
 <img src="images/ucship_logo.jpeg" fig-align="left" width="250" align="right"/>
 
 ::: {.thick style="font-weight: bold; color: black;"}
-Student Caucus Chair <br> Undergraduate Representative
+University of California Student Health Insurance Plan <br> Student Caucus Chair <br> Undergraduate Representative
 :::
 
 September 2019 - June 2022
@@ -51,10 +50,10 @@ September 2019 - June 2022
 <img src="images/SFAC_logo.png" fig-align="left" width="300" align="right"/> <br>
 
 ::: {.thick style="font-weight: bold; color: black;"}
-Chair of External Affairs
+Student Fee Advisory Committee <br> Chair of External Affairs <br> Graduate Student Representative
 :::
 
-September 2019 - June 2022
+September 2019 - June 2023
 
 <!-- -->
 
@@ -63,19 +62,7 @@ September 2019 - June 2022
 <img src="images/PS_logo.jpg" fig-align="left" width="180" align="right"/> <br>
 
 ::: {.thick style="font-weight: bold; color: black;"}
-Executive Co-Chair and Co-Founder
+Promise Scholar Advisory Board <br> Executive Co-Chair <br> Co-Founder
 :::
 
 January 2019 - June 2022
-
-<br>
-
-## Volunteering
-
-<img src="images/jewish_lang_logo.webp" fig-align="left" width="400" align="right"/>
-
-::: {.thick style="font-weight: bold; color: black;"}
-<a href="https://www.jewishlanguages.org/jewish-language-project" target="_blank"> Jewish Languages Project</a>
-:::
-
-January 2022 - Present

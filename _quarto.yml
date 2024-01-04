@@ -13,8 +13,10 @@ website:
         text: Education
       - href: experience.qmd
         text: Experience
-      - href: volunteer_leadership.qmd
-        text: School Leadership & Volunteering
+      - href: school_leadership.qmd
+        text: School Leadership
+      - href: volunteering.qmd
+        text: Volunteering  
       - href: https://eddatascienceees.github.io/tutorial-mzargari/
         text: SQL Tutorial
    #   - href: posts.qmd
@@ -26,5 +28,5 @@ format:
      # dark: lux
    #   light: flatly
     css: styles.css
-    toc: true
+    toc: false
 

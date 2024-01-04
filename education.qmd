@@ -6,9 +6,9 @@ format:
 ---
 
 ::: {#hero-heading}
-I am a <a href="https://bren.ucsb.edu/masters-programs/master-environmental-data-science" target="_blank"> Master of Environmental Data Science</a> student at the <a href="https://bren.ucsb.edu/" target="_blank"> Bren School of Environmental Science & Management</a> at the University of California-Santa Barbara (UCSB). \
+I graduated with a <a href="https://bren.ucsb.edu/masters-programs/master-environmental-data-science" target="_blank"> Master of Environmental Data Science</a> from the <a href="https://bren.ucsb.edu/" target="_blank"> Bren School of Environmental Science & Management</a> at the University of California-Santa Barbara (UCSB). I was selected as an inaugural [Putnam Promise Fellow](https://www.graddiv.ucsb.edu/promise-fellowship-program) and was honored with the University Award of Distinction at the end of my program.\
 \
-I graduated from UCSB in 2022 with a B.S. in Statistics and Data Science, B.A. in Economics, and minors in Iranian Studies and Translation Studies. I started my academic career in 2018 as a Judith Stapelmann Scholar and was awarded the Jeremy D. Friedman Memorial Award in June 2022 for my avid involvement on campus.\
+I completed my undergraduate degree from UCSB in 2022 with a B.S. in Statistics and Data Science, B.A. in Economics, and minors in Iranian Studies and Translation Studies. I started my academic career in 2018 as a Judith Stapelmann Scholar and was awarded the Jeremy D. Friedman Memorial Award in June 2022 for my avid involvement on campus.\
 \
 I studied abroad at the University of Edinburgh during Fall 2021 which solidified my interest in pursuing a higher degree in data science.\
 \
@@ -27,10 +27,10 @@ I have further outlined my educational history below! Feel free to read on.
 
 Class of 2023
 
-Awards: <a href="https://www.news.ucsb.edu/2022/020650/lot-promise" target="_blank"> Promise Fellowship</a>
+Awards: <a href="https://www.news.ucsb.edu/2022/020650/lot-promise" target="_blank"> Putnam Promise Fellowship</a> (2022) \| <a href="https://studentlife.sa.ucsb.edu/units-initiatives/university-awards#:~:text=University%20Award%20of%20Distinction&text=The%20awards%20recognize%20in%2Ddepth,in%20campus%20or%20community%20activities." target="_blank"> University Award of Distinction</a> (2023)
 
 <a href="https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds/meds-courses
-" target="_blank"> Highlighted Coursework</a>: Databases & Data Management, Machine Learning, Geospatial Analysis & Remote Sensing, Data Visualization & Communication (Completed by June 2023)
+" target="_blank"> Highlighted Coursework</a>: Databases & Data Management, Machine Learning, Geospatial Analysis & Remote Sensing, Data Visualization & Communication
 
 Bren School of Environmental Science & Management -- University of California, Santa Barbara (UCSB)
 
@@ -56,8 +56,8 @@ University of California, Santa Barbara (UCSB)
 
 ![](images/edinburgh_logo.png){fig-align="left" width="401"}
 
-::: {.thick style="font-weight: bold;"}
-Study Abroad (2021)
+::: {.thick style="font-weight: bold; color: black;"}
+**Study Abroad (2021)**
 :::
 
 <a href="https://ourcodingclub.github.io/course.html"> Highlighted Coursework</a>: Data Science in Ecology and Environmental Science

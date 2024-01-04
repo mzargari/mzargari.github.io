@@ -28,4 +28,6 @@ My name is Michael Zargari. Welcome to my website! Feel free to browse around.
 ### Career and Website Goals:
 
 I hope you are able to easily navigate this website to get to know me a bit better. With my background, I am eager to apply my acquired knowledge and skills to a spectrum of real world applications to analyze data, create accurate models, assess risk, and influence climate and environmental policy, among other initiatives.
+
+Note: Any words that are underlined are embedded with links that take you to an external website.
 :::
